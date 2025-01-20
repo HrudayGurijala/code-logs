@@ -1,57 +1,6 @@
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
+## Code Logs
 
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
 
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
-File: index.html
-Directory: c:\Users\gurij\Projects\3d rangoli
-
+    | Filename | Directory | Time-Stamp |
+    |----------|-----------|------------|
+| index.html | c:\Users\gurij\Projects\3d rangoli | Mon, 20 Jan 2025 17:08:55 GMT |

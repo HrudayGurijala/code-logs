@@ -33,3 +33,4 @@
 | urls.js | c:\Users\gurij\Projects\Code-It-main | 1 | Thu, 23 Jan 2025 08:42:14 GMT |
 | README.md | c:\Users\gurij\OneDrive\Desktop\autogit\autogit | 22 | Thu, 23 Jan 2025 10:51:12 GMT |
 | package.json | c:\Users\gurij\OneDrive\Desktop\autogit\autogit | 4 | Thu, 23 Jan 2025 13:21:12 GMT |
+| package.json | c:\Users\gurij\OneDrive\Desktop\autogit\autogit | 54 | Thu, 23 Jan 2025 14:21:12 GMT |

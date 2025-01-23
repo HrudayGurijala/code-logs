@@ -5,3 +5,4 @@
 | hruday.txt | c:\Users\gurij\Projects\Code-It-main | 5 | Tue, 21 Jan 2025 11:40:14 GMT |
 | hruday.txt | c:\Users\gurij\Projects\Code-It-main | 4 | Tue, 21 Jan 2025 11:40:44 GMT |
 | hruday.txt | c:\Users\gurij\Projects\Code-It-main | 1 | Tue, 21 Jan 2025 11:41:14 GMT |
+| README.md | c:\Users\gurij\OneDrive\Desktop\autogit\autogit | 16 | Thu, 23 Jan 2025 03:07:56 GMT |

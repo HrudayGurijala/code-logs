@@ -29,3 +29,4 @@
 | tf-gen.js | c:\Users\gurij\Projects\Code-It-main | 2 | Thu, 23 Jan 2025 07:57:39 GMT |
 | tf-gen.js | c:\Users\gurij\Projects\Code-It-main | 3 | Thu, 23 Jan 2025 08:01:09 GMT |
 | urls.js | c:\Users\gurij\Projects\Code-It-main | 3 | Thu, 23 Jan 2025 08:10:57 GMT |
+| extension.ts | c:\Users\gurij\OneDrive\Desktop\autogit\autogit | 82 | Thu, 23 Jan 2025 08:21:11 GMT |

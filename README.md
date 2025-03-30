@@ -11,3 +11,4 @@
 | [id].tsx | c:\Users\gurij\Projects\lokal-assignment | 7 | Sun, 30 Mar 2025 03:03:50 GMT |
 | [id].tsx | c:\Users\gurij\Projects\lokal-assignment | 21 | Sun, 30 Mar 2025 03:33:50 GMT |
 | app.json | c:\Users\gurij\Projects\lokal-assignment | 43 | Sun, 30 Mar 2025 04:35:21 GMT |
+| app.json | c:\Users\gurij\Projects\lokal-assignment | 22 | Sun, 30 Mar 2025 05:05:21 GMT |

@@ -18,3 +18,4 @@
 | app.json | c:\Users\gurij\Projects\lokal-assignment | 7 | Sun, 30 Mar 2025 07:26:34 GMT |
 | eas.json | c:\Users\gurij\Projects\lokal-assignment | 1 | Sun, 30 Mar 2025 08:15:16 GMT |
 | eas.json | c:\Users\gurij\Projects\lokal-assignment | 6 | Sun, 30 Mar 2025 08:45:16 GMT |
+| app.json | c:\Users\gurij\Projects\lokal-assignment | 38 | Sun, 30 Mar 2025 09:55:23 GMT |

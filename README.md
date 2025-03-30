@@ -8,3 +8,4 @@
 | reset-project.js | c:\Users\gurij\Projects\bottom-tab-nav-animated | 9 | Thu, 20 Mar 2025 03:29:02 GMT |
 | eas.json | c:\Users\gurij\Projects\bottom-tab-nav-animated | 10 | Thu, 20 Mar 2025 03:59:02 GMT |
 | eas.json | c:\Users\gurij\Projects\bottom-tab-nav-animated | 12 | Thu, 20 Mar 2025 04:59:02 GMT |
+| [id].tsx | c:\Users\gurij\Projects\lokal-assignment | 7 | Sun, 30 Mar 2025 03:03:50 GMT |

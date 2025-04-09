@@ -26,3 +26,4 @@
 | test.py | c:\Users\gurij\Projects\vahan-assignment | 1 | Wed, 09 Apr 2025 15:07:21 GMT |
 | summary_writer_agent.py | c:\Users\gurij\Projects\vahan-assignment | 53 | Wed, 09 Apr 2025 15:37:21 GMT |
 | 56c96f9f-20a5-459d-a43b-7ee85ebf1746_ | c:\Users\gurij\Projects\vahan-assignment | 8 | Wed, 09 Apr 2025 16:07:21 GMT |
+| main.py | c:\Users\gurij\Projects\vahan-assignment | 20 | Wed, 09 Apr 2025 16:37:21 GMT |

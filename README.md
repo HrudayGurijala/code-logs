@@ -36,3 +36,4 @@
 | index.css | c:\Users\gurij\Projects\research-paper-frontend | 66 | Thu, 10 Apr 2025 06:00:05 GMT |
 | main.py | c:\Users\gurij\Projects\vahan-assignment | 33 | Thu, 10 Apr 2025 06:36:42 GMT |
 | eeaac2ef-89a8-429d-ba57-75f1966c3a92.json | c:\Users\gurij\Projects\vahan-assignment | 13 | Thu, 10 Apr 2025 07:36:42 GMT |
+| main.py | c:\Users\gurij\Projects\vahan-assignment | 70 | Thu, 10 Apr 2025 09:36:42 GMT |

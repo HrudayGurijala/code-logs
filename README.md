@@ -45,3 +45,4 @@
 | README.md | c:\Users\gurij\Projects\vahan-assignment | 43 | Thu, 10 Apr 2025 16:59:32 GMT |
 | main.go | c:\Users\gurij\OneDrive\Desktop\go\Learning-go | 28 | Thu, 08 May 2025 07:14:45 GMT |
 | main.go | c:\Users\gurij\OneDrive\Desktop\go\Learning-go | 40 | Thu, 08 May 2025 07:44:45 GMT |
+| main.go | c:\Users\gurij\OneDrive\Desktop\go\Learning-go | 47 | Thu, 08 May 2025 08:14:45 GMT |

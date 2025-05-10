@@ -48,3 +48,4 @@
 | main.go | c:\Users\gurij\OneDrive\Desktop\go\Learning-go | 47 | Thu, 08 May 2025 08:14:45 GMT |
 | main.go | c:\Users\gurij\OneDrive\Desktop\go\Learning-go | 146 | Thu, 08 May 2025 09:55:14 GMT |
 | main.go | c:\Users\gurij\OneDrive\Desktop\go\Learning-go | 60 | Thu, 08 May 2025 13:18:02 GMT |
+| main.go | c:\Users\gurij\OneDrive\Desktop\go\Learning-go | 2 | Sat, 10 May 2025 11:57:13 GMT |
